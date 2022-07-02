@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e69d5a55d449c34d85cf4b0695c8db9, type: 3}
+  m_Name: CD_Buyable_PirateShip2
+  m_EditorClassIdentifier: 
+  Data:
+    SpawnReference: {fileID: 8371066103047740326, guid: 89da0e47bf74d46428f6468b48ab6eec, type: 3}
+    SpawnPosition: {x: 510.4, y: 0.31, z: 78.3}
+    SpawnRotation: {x: 0, y: -80.625, z: 0}
+    WoodRequirement: 100
+    StoneRequirement: 100
+    GoldRequirement: 100
+    IsBought: 0
